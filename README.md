@@ -8,7 +8,7 @@ Next object will be added:
     : ) 
 
 ==============================
-Know I'm adding  next object:
+Now I'm adding  next object:
 
     : (
     
